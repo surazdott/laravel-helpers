@@ -1,0 +1,21 @@
+{
+    "name": "surazdott/laravel-helpers",
+    "description": "Laravel helpers functions for Laravel projects",
+    "keywords": ["laravel", "helpers"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Suraj Dott",
+            "email": "surajdatheputhe@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.0"
+    },
+    "autoload": {
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+    "minimum-stability": "stable"
+}
